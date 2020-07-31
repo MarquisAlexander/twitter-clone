@@ -1,62 +1,65 @@
 import React from 'react';
 
-import { Container,
-        Retweeted,
-        RocketseatIcon,
-        Body, 
-        Avatar,
-        Content, 
-        Header,
-        Dot, 
-        Description, 
-        ImageContent,
-        Icons, 
-        Status,
-        CommentIcon,
-        RetweetIcon,
-        LikeIcon } from './styles';
+import {
+  Container,
+  Retweeted,
+  RocketseatIcon,
+  Body,
+  Avatar,
+  Content,
+  Header,
+  Dot,
+  Description,
+  ImageContent,
+  Icons,
+  Status,
+  CommentIcon,
+  RetweetIcon,
+  LikeIcon,
+} from './styles';
 
 const Tweet: React.FC = () => {
   return (
-      <Container>
-          <Retweeted>
-              <RocketseatIcon />
-              Você retweetou
-          </Retweeted>
+    <Container>
+      <Retweeted>
+        <RocketseatIcon />
+        Você retweetou
+      </Retweeted>
 
-          <Body>
-              <Avatar />
+      <Body>
+        <Avatar />
 
-              <Content>
-                  <Header>
-                      <strong>Rocketseat</strong>
-                      <span>@rocketseat</span>
-                      <Dot />
-                      <time> 18 de mar</time>
-                  </Header>
+        <Content>
+          <Header>
+            <strong>Rocketseat</strong>
+            <span>@rocketseat</span>
+            <Dot />
+            <time>27 de jun</time>
+          </Header>
 
-                  <Description>Foguete não tem ré (emoji de foguete)</Description>
+          {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+          <Description>Será que fuguete tem ré?🚀</Description>
 
-                  <ImageContent />
+          <ImageContent />
 
-                  <Icons>
-                      <Status>
-                          <CommentIcon />
-                          18
-                      </Status>
-                      <Status>
-                          <RetweetIcon />
-                          18
-                      </Status>
-                      <Status>
-                          <LikeIcon />
-                          999
-                      </Status>
-                  </Icons>
-              </Content>
-          </Body>
-      </Container>
+          <Icons>
+            <Status>
+              <CommentIcon />
+              19
+            </Status>
+            <Status>
+              <RetweetIcon />
+              22
+            </Status>
+            <Status>
+              <LikeIcon />
+              999
+            </Status>
+          </Icons>
+        </Content>
+      </Body>
+    </Container>
   );
-}
+};
 
 export default Tweet;

@@ -1,5 +1,5 @@
 import React from 'react';
- 
+
 export const RocketseatIcon: React.FC = (props) => {
   return (
     <svg width="1em" height="1em" viewBox="0 0 41 41" fill="none" {...props}>
