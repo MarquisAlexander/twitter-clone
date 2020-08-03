@@ -1,44 +1,73 @@
+<h2 align="center">
+  🚀 Clone-Twitter
+</h2>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-informações">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layoutdesktop">Layout Desktop</a>
+</p>
+
+
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Node.js](https://nodejs.org/en/)
+
+Extras:
+
+- 
+
+## 🤔 Informações
+
+Esse projeto foi desenvolvido baseado na aula: <a href="https://www.youtube.com/watch?v=K-8z_4xvT3o&t=12s">Twitter Responsivo com ReactJS | UI Clone</a> da rockeseat onde o <a href="https://github.com/guilhermerodz">@guilhermeRodz</a> ensinou muitas funções para 
+estilizar e manter a aplicação altamente responsiva.
+
+## 🖼 LayoutDesktop
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51330232/89227450-1583a500-d5b4-11ea-8586-ae8db3d18679.png">
+</p>
+
+## 🖼 Layout Tablet
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/51330232/89227680-7ad79600-d5b4-11ea-943e-8dd4c2c45afa.png">
+</p>
+
+## 🖼 Layout Mobile
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51330232/89227741-9a6ebe80-d5b4-11ea-95c9-31114e197264.png" alt="img">
+</p>
+
+### :muscle: Quem deu aquela força para não desistir?
+
+O pessoal da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
+Entrem na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+
+README feito com ❤️ by **Meus amigos e MarquisAlexander**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Testar
 
-In the project directory, you can run:
+Para testar essa aplicação na sua máquina siga os passos abaixo. :)
 
-### `npm start`
+## Primeiro!!!
+- Instale o <a href="https://git-scm.com/">git</a> na sua máquina.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Download
+Primeiro use o `git clone` para fazer o download desse repositório, você pode usar o link abaixo.
+https://github.com/MarquisAlexander/twitter-clone.git .
+comando completo: `git  clone` + link do repositório
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Instalação
+Para concluir mais uma etapa, você precisa instalar as dependências desse aplicação, para isso você preciso do nodeJS instalado na sua máquina você pode baixar ele aqui [Node.js](https://nodejs.org/en/)
+- Depois de baixar e instalar o node.
+- Abra o seu terminal.
+- Navegue até a pasta do projeto que você baixou.
+- Já na pasta do projeto você pode usar o comando `npm start` 
+- Agora é só esperar a aplicação rodar. :)
