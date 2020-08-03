@@ -50,9 +50,8 @@ Entrem na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/g
 
 README feito com ❤️ by **Meus amigos e MarquisAlexander**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Testar
+## Testar Aplicação
 
 Para testar essa aplicação na sua máquina siga os passos abaixo. :)
 
